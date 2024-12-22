@@ -1,0 +1,24 @@
+### PROJECTS OVERVIEW
+## Project 1
+The gender pay analysis looks into the details of 1,000 employees in a company to determine the following:
+1. Gender  distribution
+2. Salary by gender
+3. Salary by education
+4. Average salary by department
+5. Highest paid job roles
+   
+Data was imported to powerBI, cleaned and visualized, below dashboard showcases result from analysis:
+![image](https://github.com/user-attachments/assets/d19cb248-bd6e-438c-96a7-5744190b8a7f)
+
+## Project 2
+Sales data analysis showing a general overview of products trends, location, highest sales point and lowest sales point, potential business operation to other location and deployment of resources based on generated revenue.
+
+Data was cleaned and analyzed solely with Microsoft Excel, visualized as seen below:
+![image](https://github.com/user-attachments/assets/9456ac0c-529f-4cf5-9b08-2c8a628e8dda)
+
+## Project 3
+Analyzed data focuses on profit, revenue trend, sales team performance, total profit by state, all for a period of 5 years.
+Data aims to generate insights into products performance by sales to enable appropriate decision making into high selling products, location and staff performance.
+
+Data was cleaned with Microsoft Excel, imported into PowerBI and visualized. Dashboard below: 
+![image](https://github.com/user-attachments/assets/5b3e737d-647b-4a77-b017-6ac951af8664)
